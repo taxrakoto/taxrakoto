@@ -45,7 +45,7 @@ I specialize in **Kubernetes, Jenkins, ArgoCD, and Ansible**, with a proven trac
 ---
 
 ## 📫 Let's Connect
-- 🌐 [LinkedIn]([https://www.linkedin.com/tahina-rakotomaharo-006062b1/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tahina-rakotomaharo-006062b1/)  
 - 📝 [Blog / Portfolio Website](#) * in progress *
 - ✉️ **rakotomaharo.tahina@gmail.com**  
 
