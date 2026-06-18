@@ -36,7 +36,7 @@ I specialize in **Kubernetes, Jenkins, ArgoCD, and Ansible**, with a proven trac
 🚧 These are projects I’m currently working on and plan to share soon:
 
 - 🔹 **CI/CD with Jenkins Shared Libraries** – Designing reusable libraries for faster and standardized pipelines.  
-- 🔹 **Kubernetes self-hosted with Calico, longhorn, PGO and jenkins pre-installed/configured** – Setting up using ansible, terraform and Helm   
+- 🔹 **Kubernetes on-premise (VMWARE) with Calico, longhorn, PGO and jenkins pre-installed/configured** – Setting up using ansible, terraform and Helm   
 - 🔹 **DevSecOps Pipeline** – Integrating SAST, dependency scanning, and container image scanning into CI/CD.  
 - 🔹 **Python Infra Tools** – Building scripts to automate backups, monitoring, and system tasks.  
 
