@@ -35,10 +35,12 @@ I specialize in **Kubernetes, Jenkins, ArgoCD, and Ansible**, with a proven trac
 
 🚧 These are projects I’m currently working on and plan to share soon:
 
-- 🔹 **CI/CD with Jenkins Shared Libraries** – Designing reusable libraries for faster and standardized pipelines.  
-- 🔹 **Kubernetes on-premise (VMWARE) with Calico, longhorn, PGO and jenkins pre-installed/configured** – Setting up using ansible, terraform and Helm   
-- 🔹 **DevSecOps Pipeline** – Integrating SAST, dependency scanning, and container image scanning into CI/CD.  
-- 🔹 **Python Infra Tools** – Building scripts to automate backups, monitoring, and system tasks.  
+### Platform Engineering / IDP Lab
+
+A production-inspired Internal Developer Platform demonstrating
+Kubernetes, GitOps, Helm, CI/CD, Argo CD and Backstage.
+
+→ [Explore the complete project](https://github.com/taxrakoto-idp)
 
 ➡️ *Stay tuned — I’ll be publishing updates and repositories as these projects evolve.*  
 
