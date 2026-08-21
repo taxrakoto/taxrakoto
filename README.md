@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Tahina  
 
-💡 **DevOps & Certified Kubernetes Administrator** with 10+ years of experience in IT operations, automation, and cloud infrastructure.  
-My Core stack are **Kubernetes, Jenkins, ArgoCD, Helm, Ansible, Terraform, AWS, Vmware, Linux, Python, Bash**, with a proven track record of building scalable, automated, and resilient systems.  
+💡 **DevOps Engineer**, [Certified Kubernetes Administrator](https://www.credly.com/badges/bf60f5ae-6e77-4fd7-9520-f77a70321d60/public_url) with 10+ years of experience in IT operations, automation, and cloud infrastructure.  
+My Core stack are **Kubernetes, Jenkins, ArgoCD, Helm, Ansible, Terraform, AWS, Vmware, Linux, Python, Bash**
 
 ---
-## 📌 What I'm working on (In progress)
+## 📌 Featured Projects (In progress)
 ### Platform Engineering / Internal Developer Platform using BACKSTAGE & GITOPS
 
 A production-inspired Internal Developer Platform demonstrating
