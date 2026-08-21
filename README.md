@@ -15,6 +15,20 @@ I specialize in **Kubernetes, Jenkins, ArgoCD, and Ansible**, with a proven trac
 - 🖥️ Passionate about **automation and continuous improvement**.  
 
 ---
+## 📌 What I'm working on (In progress)
+
+🚧 These are projects I’m currently working on and plan to share soon:
+
+### Platform Engineering / Internal Developer Platform using BACKSTAGE & GITOPS
+
+A production-inspired Internal Developer Platform demonstrating
+Kubernetes, GitOps, Helm, CI/CD, Argo CD and Backstage.
+
+→ [Explore the complete project](https://github.com/taxrakoto-idp)
+
+➡️ *Stay tuned — I’ll be publishing updates and repositories as these projects evolve.*  
+
+---
 
 ## 🛠️ Tech Stack
 **DevOps & Automation**  
@@ -28,21 +42,6 @@ I specialize in **Kubernetes, Jenkins, ArgoCD, and Ansible**, with a proven trac
 
 **Cloud**  
 `AWS (EC2, VPC, S3, RDS, EKS)`   
-
----
-
-## 📌 Featured Projects (In Progress)
-
-🚧 These are projects I’m currently working on and plan to share soon:
-
-### Platform Engineering / IDP Lab
-
-A production-inspired Internal Developer Platform demonstrating
-Kubernetes, GitOps, Helm, CI/CD, Argo CD and Backstage.
-
-→ [Explore the complete project](https://github.com/taxrakoto-idp)
-
-➡️ *Stay tuned — I’ll be publishing updates and repositories as these projects evolve.*  
 
 ---
 
