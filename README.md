@@ -1,55 +1,25 @@
 # 👋 Hi, I'm Tahina  
 
-💡 **DevOps & Systems Engineer** with 9+ years of experience in IT operations, automation, and cloud infrastructure.  
-I specialize in **Kubernetes, Jenkins, ArgoCD, and Ansible**, with a proven track record of building scalable, automated, and resilient systems.  
-
----
-
-## 🚀 About Me
-- 🔧 Designed and operated **self-hosted Kubernetes clusters** with high availability (99.9% uptime).  
-- ⚡ Built and maintained **CI/CD pipelines** using Jenkins Shared Libraries, reducing deployment cycles by 50%.  
-- 📦 Implemented **GitOps workflows with ArgoCD & Helm**, enabling safe, auditable, and rollback-friendly releases.  
-- 🔐 Adopted a **DevSecOps approach** by integrating automated security scanning into pipelines, reducing vulnerabilities by 40%.  
-- ☁️ Experienced in **hybrid environments**: on-prem VMware, Linux/Windows servers, and AWS services.  
-- 🛡️ Strengthened security & reliability for **banking, telecom, and government infrastructures**.  
-- 🖥️ Passionate about **automation and continuous improvement**.  
+💡 **DevOps & Certified Kubernetes Administrator** with 10+ years of experience in IT operations, automation, and cloud infrastructure.  
+I work with **Kubernetes, Jenkins, ArgoCD, Helm, Ansible, Terraform and AWS**, with a proven track record of building scalable, automated, and resilient systems.  
 
 ---
 ## 📌 What I'm working on (In progress)
-
-🚧 These are projects I’m currently working on and plan to share soon:
-
 ### Platform Engineering / Internal Developer Platform using BACKSTAGE & GITOPS
 
 A production-inspired Internal Developer Platform demonstrating
 Kubernetes, GitOps, Helm, CI/CD, Argo CD and Backstage.
 
 → [Explore the complete project](https://github.com/taxrakoto-idp)
-
-➡️ *Stay tuned — I’ll be publishing updates and repositories as these projects evolve.*  
-
 ---
 
-## 🛠️ Tech Stack
-**DevOps & Automation**  
-`Kubernetes` `Jenkins` `ArgoCD` `Helm`  `Ansible` `Terraform `  
-
-**Programming & Scripting**  
-`Python` `Bash`  
-
-**Infrastructure & Virtualization**  
-`Linux (RHEL, Ubuntu, Debian)` `Windows Server` `VMware vSphere` `Docker`  
-
-**Cloud**  
-`AWS (EC2, VPC, S3, RDS, EKS)`   
-
+## 🛠️ Core Stack
+Kubernetes Jenkins Argo CD Helm Ansible Terraform
+AWS Docker VMware Linux Python Bash
 ---
 
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tahina-rakotomaharo-006062b1/)  
 - 📝 [Portfolio Website](https://devops-tahina.dev/)
 - ✉️ **rakotomaharo.tahina@gmail.com**  
-
 ---
-💬 _“Chance favors the prepared mind.” — Louis Pasteur_  
-
