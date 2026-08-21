@@ -5,12 +5,11 @@ My Core stack are **Kubernetes, Jenkins, ArgoCD, Helm, Ansible, Terraform, AWS, 
 
 ---
 ## 📌 Featured Projects (In progress)
-### Platform Engineering / Internal Developer Platform using BACKSTAGE & GITOPS
+### Platform Engineering: [Internal Developer Platform with BACKSTAGE & GITOPS workflow](https://github.com/taxrakoto-idp)
 
 A production-inspired Internal Developer Platform demonstrating
 Kubernetes, GitOps, Helm, CI/CD, Argo CD and Backstage.
 
-→ [Explore the complete project](https://github.com/taxrakoto-idp)
 ---
 
 ## 📫 Let's Connect
