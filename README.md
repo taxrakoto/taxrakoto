@@ -10,7 +10,7 @@ My Core stack are **Kubernetes, Jenkins, ArgoCD, Helm, Ansible, Terraform, AWS, 
 A production-inspired Internal Developer Platform demonstrating
 Kubernetes, GitOps, Helm, CI/CD, Argo CD and Backstage.
 
-[view project](https://github.com/taxrakoto-idp)
+ --> [view project](https://github.com/taxrakoto-idp)
 ---
 
 ## 📫 Let's Connect
